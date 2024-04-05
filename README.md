@@ -1,0 +1,1 @@
+interactive video installation utilizing semantic segmentation
